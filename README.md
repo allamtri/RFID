@@ -1,1 +1,1 @@
-# Tabby-Cat-s-House
+# Sensor RFID adalah sensor yang mengidentifikasi suatu barang dengan menggunakan frekuensi radio. Sensor ini terdiri atas dua bagian penting, yaitu transceiver (reader) dan transponder (tag). Setiap tag tersimpan data yang berbeda. Data tersebut merupakan data identitas tag
